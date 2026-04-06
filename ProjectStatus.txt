@@ -1,0 +1,126 @@
+Features of the app:
+
+1. Property & Unit Management
+
+| Feature         | Description                                               |
+| --------------- | --------------------------------------------------------- |
+| Add Properties  | Apartments, estates, commercial buildings, single units   |
+| Define Units    | Bedsitters, 1-4 bedrooms, shops, offices, warehouses      |
+| Track Occupancy | Real-time status: vacant, occupied, reserved, maintenance |
+| Visual Layout   | Future: Floor plan visualization                          |
+| Amenities       | Parking, gym, pool, security tracking                     |
+
+2. Tenant Management
+
+| Feature          | Description                                         |
+| ---------------- | --------------------------------------------------- |
+| Tenant Profiles  | Personal info, ID, emergency contacts, employment   |
+| Lease Tracking   | Start/end dates, rent due dates, automatic renewals |
+| Tenant History   | Payment history, complaints, reliability scoring    |
+| Document Storage | Lease agreements, ID copies, signed documents       |
+
+3.  Rent & Payment Management 💰
+
+| Feature                  | Description                          |
+| ------------------------ | ------------------------------------ |
+| Invoice Generation       | Monthly auto-generated rent invoices |
+| M-Pesa Integration       | STK Push, automatic reconciliation   |
+| Multiple Payment Methods | M-Pesa, bank transfer, cash, card    |
+| Receipt Generation       | Automatic PDF receipts               |
+| Financial Reports        | Revenue, expenses, profit analysis   |
+| Late Fee Calculation     | Automatic penalties for overdue rent |
+
+4. Maintenance & Issue Reporting 🔧
+
+| Feature               | Description                                                 |
+| --------------------- | ----------------------------------------------------------- |
+| Tenant Reporting      | Photos/videos of issues                                     |
+| Ticketing System      | Track status: reported → assigned → in progress → completed |
+| Technician Assignment | Assign staff to specific jobs                               |
+| Priority Levels       | Low, medium, high, urgent                                   |
+| Cost Tracking         | Materials, labor costs per ticket                           |
+
+5. Airbnb / Short-Term Rentals 🏖️
+
+| Feature          | Description                             |
+| ---------------- | --------------------------------------- |
+| Booking Calendar | Visual calendar with availability       |
+| Guest Management | Check-in/check-out tracking             |
+| Dynamic Pricing  | Adjust rates by season/demand           |
+| Revenue Tracking | Separate from long-term rentals         |
+| Platform Sync    | Future: Airbnb, Booking.com integration |
+
+6. Analytics Dashboard 📊
+
+| Metric              | Description                                 |
+| ------------------- | ------------------------------------------- |
+| Occupancy Rate      | % of units occupied                         |
+| Collection Rate     | % of rent collected on time                 |
+| Revenue Tracking    | Monthly/quarterly/annual                    |
+| Expense Analysis    | Repairs, utilities, salaries                |
+| Profit & Loss       | Net income calculations                     |
+| Predictive Insights | AI-lite: vacancy risk, pricing optimization |
+
+7. Communication Hub 💬
+
+| Feature                 | Description                                |
+| ----------------------- | ------------------------------------------ |
+| In-App Messaging        | Tenant ↔ Landlord direct messages          |
+| Broadcast Announcements | Send to all tenants or specific properties |
+| SMS Notifications       | Rent reminders, lease expiry alerts        |
+| Email Notifications     | Detailed reports, receipts                 |
+| Push Notifications      | Mobile app alerts (future)                 |
+
+8. Security & Roles 🔐
+
+| Role                 | Permissions                                   |
+| -------------------- | --------------------------------------------- |
+| **Landlord**         | Full access to all features                   |
+| **Property Manager** | Manage properties, tenants, maintenance       |
+| **Agent**            | Limited access, view-only reports             |
+| **Tenant**           | View lease, pay rent, report issues, messages |
+| **Technician**       | View assigned tickets, update progress        |
+| **Accountant**       | Financial data only, no property changes      |
+
+9.  Expense Tracking 💸
+
+| Category              | Examples                         |
+| --------------------- | -------------------------------- |
+| Repairs & Maintenance | Plumbing, electrical, painting   |
+| Utilities             | Water, electricity, gas bills    |
+| Salaries              | Staff wages, contractor payments |
+| Insurance             | Property coverage                |
+| Taxes                 | Property tax, income tax         |
+
+10. Notifications & Reminders 🔔
+
+| Trigger            | Action                                        |
+| ------------------ | --------------------------------------------- |
+| Rent Due           | SMS/email 3 days before, day of, 3 days after |
+| Lease Expiry       | 30-day advance notice                         |
+| Maintenance Update | Status changes on tickets                     |
+| Payment Received   | Instant confirmation receipt                  |
+| Overdue Rent       | Escalating reminders + late fees              |
+
+11. Project Status
+
+| Component               | Status                    |
+| ----------------------- | ------------------------- |
+| ✅ Frontend (React)      | Running on localhost:3000 |
+| ✅ Backend (Django)      | Running on localhost:8000 |
+| ✅ Database (PostgreSQL) | Connected                 |
+| ✅ Authentication        | JWT working               |
+| ⏳ Real API Connection   | **Next step**             |
+| ⏳ Property CRUD         | Pending                   |
+| ⏳ M-Pesa Integration    | Pending                   |
+| ⏳ Testing Suite         | Partially set up          |
+
+
+
+
+
+
+
+
+
+
